@@ -18,7 +18,7 @@ function App ({
         <div style={{height: '100%', width: '100%'}}>
 
             <HeroHeading
-                title="react-boilerplate"
+                title="react-boilerplate diana"
                 subtitle="A slightly opinionated yet dead simple boilerplate for ReactJS" />
 
             <Flexbox
